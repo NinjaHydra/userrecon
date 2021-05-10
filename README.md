@@ -29,7 +29,4 @@ bash userrecon.sh
 
 ### Now just put the username and it will start reconing the username on different social networks.
 
-## Join Us :
-
-- [![cdn](https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter)](https://twitter.com/imvijayps)
 - [![cdn](https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram)](https://instagram.com/imvijayps)
